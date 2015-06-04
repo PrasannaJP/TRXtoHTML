@@ -66,6 +66,10 @@ address {
     background-color: #b93333;
 }
 
+.statusBarCompleted {
+    background-color: #5bab5b;
+}
+
 .statusBarFailedInner {
     position: relative;
     background-color: #a90000;
